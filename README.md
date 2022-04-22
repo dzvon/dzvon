@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dzvon
-- 👀 I’m interested in thinking rules under the hood.
+- 👀 I’m interested in thinking the rules under the hood.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate with kind people.
 - 📫 How to reach me, I'll let you know.
